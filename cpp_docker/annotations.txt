@@ -1,0 +1,2 @@
+docker build -t nome_da_imagem -f Dockerfile.ubuntu .
+docker build -t nome_da_imagem -f Dockerfile.gcc .
