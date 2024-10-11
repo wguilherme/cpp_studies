@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/withneyguilherme/Projects/brainy/cpp_studies/sfml_macos2",
+      "program": "/Users/withneyguilherme/Projects/brainy/cpp_studies/sfml_macos2/build/Debug/outDebug"
+    }
+  ]
+}
